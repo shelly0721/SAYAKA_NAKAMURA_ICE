@@ -18,5 +18,8 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("Culbs");
+        
+        Card sevenSpade = new Card("Spade", 7);
+        sevenSpade.setSuit("Spade");
     }
 }

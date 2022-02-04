@@ -13,8 +13,7 @@ package ca.sheridancollege.week2.softwarefundamentals;
  * Created in Week 2 for the cloning repository demo
  * @author dancye, 2019
  */
-public class Card 
-{
+public class Card {
     private String suit;// hearts, diamonds, spades and clubs
     private int value;//1-13
     
